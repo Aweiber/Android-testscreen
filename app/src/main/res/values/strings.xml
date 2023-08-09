@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testscreen</string>
+    <string name="title_activity_shutdown">ShutdownActivity</string>
+    <!--    <string name="touch_to_show_coordinates">Touch to show coordinates</string>-->
+</resources>
